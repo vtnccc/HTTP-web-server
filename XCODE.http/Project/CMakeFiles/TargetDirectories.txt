@@ -1,0 +1,5 @@
+/Users/vtnc/Documents/XCODE-http/XCODE.http/Project/CMakeFiles/XCODE_http.dir
+/Users/vtnc/Documents/XCODE-http/XCODE.http/Project/CMakeFiles/edit_cache.dir
+/Users/vtnc/Documents/XCODE-http/XCODE.http/Project/CMakeFiles/rebuild_cache.dir
+/Users/vtnc/Documents/XCODE-http/XCODE.http/Project/CMakeFiles/XCODE_http_autogen_timestamp_deps.dir
+/Users/vtnc/Documents/XCODE-http/XCODE.http/Project/CMakeFiles/XCODE_http_autogen.dir
